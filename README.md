@@ -29,9 +29,13 @@ Jadi di dalam program yang ada di folder administrator berfungsi untuk memproses
 ## Kontrol
 
 D -> jalan ke kanan
+
 S -> memanggil peri
+
 A -> jalan ke kiri
+
 W -> berinteraksi dengan sesuatu
+
 Spasi -> lompat
 
 
